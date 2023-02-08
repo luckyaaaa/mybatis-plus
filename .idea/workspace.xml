@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72a14af5-95e5-4387-b336-a89da263e42b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LODgsZMK3Yu0jgwbO5iyehzRwb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeAdminWeb" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nwa.until" />
+      <recent name="com.nwa.pojo" />
+      <recent name="com.nwa.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\MyBatisPlusN\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDemo.testSelectList">
+    <configuration name="TestDemo.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisPlusN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwa" />
+      <option name="MAIN_CLASS_NAME" value="com.nwa.TestDemo" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisPlusN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwa" />
+      <option name="MAIN_CLASS_NAME" value="com.nwa.TestDemo" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.testSelectList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisPlusN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwa" />
+      <option name="MAIN_CLASS_NAME" value="com.nwa.TestDemo" />
+      <option name="METHOD_NAME" value="testSelectList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisPlusN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwa" />
+      <option name="MAIN_CLASS_NAME" value="com.nwa.TestDemo" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.testUpdateById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisPlusN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwa" />
+      <option name="MAIN_CLASS_NAME" value="com.nwa.TestDemo" />
+      <option name="METHOD_NAME" value="testUpdateById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyBatisPlusN" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nwa.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDemo.testSelectList" />
+        <item itemvalue="JUnit.TestDemo.testDeleteById" />
+        <item itemvalue="JUnit.TestDemo.testRedis" />
+        <item itemvalue="JUnit.TestDemo.testUpdate" />
+        <item itemvalue="JUnit.TestDemo.testUpdateById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a14af5-95e5-4387-b336-a89da263e42b" name="Default Changelist" comment="" />
+      <created>1675733349476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675733349476</updated>
+      <workItem from="1675733351353" duration="1588000" />
+      <workItem from="1675758886590" duration="4740000" />
+      <workItem from="1675817481087" duration="2679000" />
+      <workItem from="1675826815183" duration="2318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="312" key="#Project_Structure" timestamp="1675733771932">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="553" y="312" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1675733771932" />
+    <state x="563" y="288" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1675760533126">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="563" y="288" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1675760533126" />
+    <state x="936" y="370" key="FileChooserDialogImpl" timestamp="1675829202521">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="936" y="370" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1675829202521" />
+    <state width="1626" height="317" key="GridCell.Tab.0.bottom" timestamp="1675829480710">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1626" height="317" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1675829480710" />
+    <state width="1626" height="317" key="GridCell.Tab.0.center" timestamp="1675829480710">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1626" height="317" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1675829480710" />
+    <state width="1626" height="317" key="GridCell.Tab.0.left" timestamp="1675829480710">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1626" height="317" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1675829480710" />
+    <state width="1626" height="317" key="GridCell.Tab.0.right" timestamp="1675829480710">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1626" height="317" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1675829480710" />
+  </component>
+</project>

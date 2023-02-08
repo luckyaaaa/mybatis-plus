@@ -3,8 +3,8 @@ server:
 
 spring:
   datasource:
-  #  url: jdbc:mysql://162.14.96.81:3307/mpdb?useSSL=true&characterEncoding=utf8
-    url: jdbc:mysql://localhost:3306/mpdb?useSSL=true&characterEncoding=utf8
+    url: jdbc:mysql://162.14.96.81:3307/mpdb?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai  # 数据库的 JDBC URL
+    #url: jdbc:mysql://localhost:3306/mpdb?useSSL=true&characterEncoding=utf8
     username: root
     password: 123456
     driver-class-name: com.mysql.jdbc.Driver    #8点多版本的mysql加cj
